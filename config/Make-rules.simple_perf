@@ -1,0 +1,3 @@
+include /Users/ciroceissler/Downloads/systemc-2.3.0/config/Make-rules.common
+
+AM_CPPFLAGS = -I/Users/ciroceissler/Downloads/systemc-2.3.0/include
